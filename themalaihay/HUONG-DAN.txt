@@ -1,9 +1,0 @@
-THU MUC: themalaihay
-
-Cau truc:
-- index.html: bai thuyet trinh
-- Starlight.mp3: nhac nen
-- nghetienganh.wav: bai nghe tieng Anh
-
-Giu nguyen 3 tep nay trong cung thu muc. Mo index.html de chay.
-Neu dua len GitHub Pages, tai len ca index.html, Starlight.mp3 va nghetienganh.wav.
