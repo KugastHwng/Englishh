@@ -1,0 +1,8 @@
+THU MUC: themalaihay
+
+Cac tep can giu cung cap:
+- index.html: Bai thuyet trinh da chinh sua.
+- Starlight.mp3: Nhac nen.
+- nghetienganh.wav: File nghe tieng Anh.
+
+Mo index.html de chay. Khi dua len GitHub Pages, hay tai len ca 3 tep trong cung thu muc.
